@@ -1,0 +1,22 @@
+{
+  "name": "assembly-script-smart-contract",
+  "version": "1.0.0",
+  "description": "This is my first smart contract.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laterealiser/Assembly-script-Smart-Contract.git"
+  },
+  "author": "Chandu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laterealiser/Assembly-script-Smart-Contract/issues"
+  },
+  "homepage": "https://github.com/laterealiser/Assembly-script-Smart-Contract#readme",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
